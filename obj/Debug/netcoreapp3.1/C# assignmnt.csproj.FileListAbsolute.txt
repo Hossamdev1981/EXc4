@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\C# assignmnt\obj\Debug\netcoreapp3.1\C# assignmnt.csprojAssemblyReference.cache
+C:\Users\student\Desktop\C# assignmnt\obj\Debug\netcoreapp3.1\C# assignmnt.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\C# assignmnt\obj\Debug\netcoreapp3.1\C# assignmnt.AssemblyInfo.cs
+C:\Users\student\Desktop\C# assignmnt\bin\Debug\netcoreapp3.1\C# assignmnt.exe
+C:\Users\student\Desktop\C# assignmnt\bin\Debug\netcoreapp3.1\C# assignmnt.deps.json
+C:\Users\student\Desktop\C# assignmnt\bin\Debug\netcoreapp3.1\C# assignmnt.runtimeconfig.json
+C:\Users\student\Desktop\C# assignmnt\bin\Debug\netcoreapp3.1\C# assignmnt.runtimeconfig.dev.json
+C:\Users\student\Desktop\C# assignmnt\bin\Debug\netcoreapp3.1\C# assignmnt.dll
+C:\Users\student\Desktop\C# assignmnt\bin\Debug\netcoreapp3.1\C# assignmnt.pdb
+C:\Users\student\Desktop\C# assignmnt\obj\Debug\netcoreapp3.1\C# assignmnt.dll
+C:\Users\student\Desktop\C# assignmnt\obj\Debug\netcoreapp3.1\C# assignmnt.pdb
